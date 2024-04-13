@@ -1,5 +1,4 @@
 #使用程式語言: py  
-#使用資源: Discord.py/ Youtube/ [Discord.py API](https://discordpy.readthedocs.io/en/stable/api.html)  
 #專案製作期間: 高二
 
 ## 主要檔案說明:  
