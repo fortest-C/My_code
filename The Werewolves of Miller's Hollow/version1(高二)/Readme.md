@@ -3,15 +3,15 @@
 #專案製作期間: 高二
 
 ## 主要檔案說明:  
-### [cmds](https://github.com/fortest-C/Repository-1/tree/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds)
+### [cmds](https://github.com/fortest-C/My_code/tree/main/The%20Werewolves%20of%20Miller's%20Hollow/version1(%E9%AB%98%E4%BA%8C)/cmds)
 包含各種使用者指令
->   #### [main_game](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds/main_game.py)
+>   #### [main_game](https://github.com/fortest-C/My_code/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/version1(%E9%AB%98%E4%BA%8C)/cmds/main_game.py)
 >   此為遊戲最主要的執行檔，內容包含遊戲規則判斷、遊戲執行主函式等等
->   #### [set_role](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds/set_role.py)
+>   #### [set_role](https://github.com/fortest-C/My_code/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/version1(%E9%AB%98%E4%BA%8C)/cmds/set_role.py)
 >   此為角色數量設定指令
->   #### [game](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/cmds/game.py)
+>   #### [game](https://github.com/fortest-C/My_code/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/version1(%E9%AB%98%E4%BA%8C)/cmds/set_role.py)
 >   此檔案提供玩家加入或退出遊戲佇列
-### [core](https://github.com/fortest-C/Repository-1/tree/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/core)
+### [core](https://github.com/fortest-C/My_code/tree/main/The%20Werewolves%20of%20Miller's%20Hollow/version1(%E9%AB%98%E4%BA%8C)/core)
 為此discord bot的啟動檔，執行其中```classes.py```便能啟動機器人
-### [data.json](https://github.com/fortest-C/Repository-1/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/werewolf/data.json)
+### [data.json](https://github.com/fortest-C/My_code/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/version1(%E9%AB%98%E4%BA%8C)/data.json)
 此為json資料庫，儲存遊戲的所有資料
