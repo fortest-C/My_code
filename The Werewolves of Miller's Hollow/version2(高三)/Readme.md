@@ -19,4 +19,4 @@
 #### [data.json](https://github.com/fortest-C/My_code/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/version2(%E9%AB%98%E4%B8%89)/data.json)
 儲存遊戲內的所有資料
 #### [setting.json](https://github.com/fortest-C/My_code/blob/main/The%20Werewolves%20of%20Miller's%20Hollow/version2(%E9%AB%98%E4%B8%89)/setting.json)
-儲存Bot的所有資料，包含版本等資訊，其中余"Developers"中才可執行部分指令
+儲存Bot的所有資料，包含版本等資訊，其中於"Developers"中才可執行部分指令
