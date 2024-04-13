@@ -1,0 +1,99 @@
+{
+ "//player_data": "======================",
+ "player_name": [
+  "coolooc",
+  "test2_c",
+  "test3_c",
+  "test4_c."
+ ],
+ "player_id": [
+  977929252404072458,
+  1021274448197853224,
+  1021271741143715841,
+  1221390193542565941
+ ],
+ "//number of role": "======================",
+ "werewolf_number": 1,
+ "villager_number": 1,
+ "seer_number": 1,
+ "witch_number": 1,
+ "//list of roles": "======================",
+ "tell_everyone_the_true": "<@977929252404072458> \u662f `\u5e73\u6c11`\n<@1021274448197853224> \u662f `\u5deb\u5e2b`\n<@1021271741143715841> \u662f `\u9810\u8a00\u5bb6`\n<@1221390193542565941> \u662f `\u72fc\u4eba`\n",
+ "//villager_data": "======================",
+ "villager_list": [
+  977929252404072458
+ ],
+ "//seer_data": "======================",
+ "data of seer": {
+  "id": "has use the skill or not"
+ },
+ "seer_list": {
+  "1021271741143715841": true
+ },
+ "seer_check": [
+  1021271741143715841
+ ],
+ "//witch_data": "======================",
+ "//data of witch": {
+  "id": {
+   "has_antidote": "bool",
+   "has_poison": "bool"
+  }
+ },
+ "witch_list": {
+  "1021274448197853224": {
+   "has_antidote": false,
+   "has_poison": true
+  }
+ },
+ "// data of witches_use_poisons_on": {
+  "witch id": "object id / -1"
+ },
+ "witches_use_poisons_on": {
+  "1021274448197853224": -1
+ },
+ "// data of witches_use_antidotes_on": {
+  "witch id": "bool"
+ },
+ "witches_use_antidotes_on": {
+  "1021274448197853224": true
+ },
+ "//werewolf_data": "======================",
+ "werewolf_list": [],
+ "//data of werewolves_voting": {
+  "werewolf id": "object id"
+ },
+ "werewolves_voting": {
+  "1221390193542565941": 977929252404072458
+ },
+ "//data of people_voting": {
+  "voter id": "object id"
+ },
+ "people_voting": {
+  "977929252404072458": 1221390193542565941,
+  "1221390193542565941": 1021274448197853224,
+  "1021271741143715841": 1221390193542565941,
+  "1021274448197853224": 1221390193542565941
+ },
+ "//game data": "================",
+ "alive": [
+  977929252404072458,
+  1021274448197853224,
+  1021271741143715841
+ ],
+ "//data of killed": {
+  "id": "werewolves / witch"
+ },
+ "killed": {},
+ "// kind of current_progress": [
+  "night",
+  "werewolves voting",
+  "counting werewolves' votes",
+  "witches/seers casting the spells",
+  "dealing with witches/seers casting",
+  "people voting",
+  "end game"
+ ],
+ "current_progress": "end_game",
+ "speaking": -1
+}
